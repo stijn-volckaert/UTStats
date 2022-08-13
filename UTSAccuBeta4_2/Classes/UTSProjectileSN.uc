@@ -19,4 +19,5 @@ simulated event Actor SpawnNotification(Actor A)
 defaultproperties
 {
    ActorClass=class'Projectile'
+   RemoteRole=ROLE_None
 }
